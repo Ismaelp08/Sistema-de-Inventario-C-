@@ -1,0 +1,11 @@
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\bin\Debug\Proyecto_IJ.exe.config
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\bin\Debug\Proyecto_IJ.exe
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\bin\Debug\Proyecto_IJ.pdb
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.csproj.AssemblyReference.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.Principal.resources
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.Properties.Resources.resources
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.csproj.GenerateResource.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.exe
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.pdb
+C:\Users\ismae\Documents\Desarrollo de aplicaciones\Practicas de Visual\Proyecto_IJ\obj\Debug\Proyecto_IJ.Acercade.resources
